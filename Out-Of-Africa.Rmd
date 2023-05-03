@@ -74,7 +74,7 @@ To count the number of SNPs in the African population with greater than zero ALT
 MoreThanzero(snpAfr)
 ```
 
-**As mentioned in the question, due to the out-of-Africa hypothesis, the number of SNPs with greater than zero ALT frequency in the African population is more than the European population.**
+**Due to the out-of-Africa hypothesis, the number of SNPs with greater than zero ALT frequency in the African population is more than the European population.**
 
 
 Function to get the allele freq spectrum
@@ -176,7 +176,7 @@ finalfunc(snpEuro)
 finalfunc(snpAfr)
 ```
 
-**As mentioned in the question, the average pairwise diversity within Europe is lesser than both within African population and between European and African population.**
+**The average pairwise diversity within Europe is lesser than both within African population and between European and African population.**
 
 
 To compute the bootstrap 95% confidence interval for the average pairwise diversity statistic between european and African population:
